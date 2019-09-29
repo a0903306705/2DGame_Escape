@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: e122d15c07238c14e951a12a6115bff5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5423545665837503084
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_0
+  - first:
+      213: 5569832599951402018
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_1
+  - first:
+      213: -3613683746581273686
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_2
+  - first:
+      213: 5712361988552010173
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_3
+  - first:
+      213: 5394721790695709954
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_4
+  - first:
+      213: 3943545127314070133
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_5
+  - first:
+      213: 4277392520902174048
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_6
+  - first:
+      213: -323718600216664732
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_7
+  - first:
+      213: -2730548119442829431
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_8
+  - first:
+      213: 5732273377865490135
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_9
+  - first:
+      213: 6830028161304690133
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_10
+  - first:
+      213: -5748775076840735357
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_11
+  - first:
+      213: 5384281667557882562
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_12
+  - first:
+      213: 3615041803643405803
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_13
+  - first:
+      213: 631700081534910237
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_14
+  - first:
+      213: 5985073092175251183
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_15
+  - first:
+      213: 8760020542888527799
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_16
+  - first:
+      213: -1763855803427905112
+    second: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 28
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2041
+        width: 713
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e52bbf7c891340a46a4f9a325fcf5
+      internalID: 5423545665837503084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_1
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2041
+        width: 714
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ece0b2d93edd345818a5c818aaf344
+      internalID: 5569832599951402018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_2
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2041
+        width: 712
+        height: 712
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bc76d719a0f604ead2e14f22975957
+      internalID: -3613683746581273686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1943
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7579c85e2b085704785c75d39406d6c1
+      internalID: 5712361988552010173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_4
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1943
+        width: 526
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbca40babebc2a4ba22b51533a2e948
+      internalID: 5394721790695709954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_5
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1943
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b429f13e8e54b3749abef3297baea9f2
+      internalID: 3943545127314070133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1069
+        width: 713
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823fe13a88f94c642afaf0990821eb21
+      internalID: 4277392520902174048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_7
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1077
+        width: 714
+        height: 714
+      alignment: 9
+      pivot: {x: 0.510449, y: 0.5731439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99f537379c2667498645688c4b505b8
+      internalID: -323718600216664732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_8
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1069
+        width: 712
+        height: 714
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1141148c8c663f44bfd6d704364abfb
+      internalID: -2730548119442829431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 971
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2716084b31fff42a52f65fcc3b6afb
+      internalID: 5732273377865490135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_10
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 971
+        width: 526
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb47a9d2c6beb1644b77768b3e213663
+      internalID: 6830028161304690133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_11
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 971
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f41772abc36d24dbbd80625cd58571
+      internalID: -5748775076840735357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 713
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171749801e379af4fbaf98b025e530b9
+      internalID: 5384281667557882562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 99
+        width: 714
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c9fc9926a62354fb16b2edddd5732b
+      internalID: 3615041803643405803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_14
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 99
+        width: 712
+        height: 715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf25b05295872149be53c99f8c54540
+      internalID: 631700081534910237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c077dc6723719499db4a47bb683198
+      internalID: 5985073092175251183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_16
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 0
+        width: 526
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e273d1f589c345a3039d58c4e1014
+      internalID: 8760020542888527799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-euclidean-vector-number-icon-color-low-polygon-numbers-1-to-9-5a6f00060c8f07.0895796015172239420515_17
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 0
+        width: 527
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037fa2a273296b54d8fda77a89020994
+      internalID: -1763855803427905112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
